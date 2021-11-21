@@ -2,4 +2,5 @@
 
 print("1")
 
-exit 0
+print("failed")
+exit 1
